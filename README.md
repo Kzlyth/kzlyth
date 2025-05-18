@@ -3,6 +3,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,java,kotlin,js,python,cloudflare,discordjs,gradle,idea,maven,mysql,netlify,mongodb,nodejs,sqlite,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,vue,java,kotlin,js,python,cloudflare,discordjs,gradle,idea,maven,mysql,netlify,mongodb,nodejs,sqlite,spring,vscode&theme=light" />
   </a>
 </p>
