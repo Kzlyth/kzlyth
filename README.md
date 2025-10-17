@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://activity.igorkowalczyk.dev/api/1211382638963728394" alt="Discord activity" style="margin-right: 20px;" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kzlyth&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kzlyth&layout=compact&theme=tokyonight)
